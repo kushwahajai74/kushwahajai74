@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jai Kushwaha</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushwahajai74&label=Profile%20views&color=0e75b6&style=flat" alt="kushwahajai74" /> </p>
 
 - 🔭 I’m currently working on [shopEkart](https://github.com/kushwahajai74/shopekart)
 
-- 🌱 I’m currently learning **React, redux, React-Native**
+- 🌱 I’m currently learning **Next.js, React-Native**
 
 - 💬 Ask me about **MERN stack and overall Web Development**
 
