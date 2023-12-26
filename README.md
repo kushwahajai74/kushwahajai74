@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kushwahajai74@gmai.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1kn9RtSHNhujXiFw5xNYyr-pHiTqhTr-p/edit?usp=sharing&ouid=113307492839547956518&rtpof=true&sd=true](https://docs.google.com/document/d/1kn9RtSHNhujXiFw5xNYyr-pHiTqhTr-p/edit?usp=sharing&ouid=113307492839547956518&rtpof=true&sd=true)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1xoaL97JAcHs8ySUtZs5HtY42PhhFjTLj/view?usp=drivesdk)
 
 - ⚡ Fun fact **Obsessed with my desk, laptop and a cup of tea.**
 
