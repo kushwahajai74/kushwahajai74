@@ -9,6 +9,7 @@
   <li>💻 Full-stack developer with experience in building scalable backend architecture and integrating GenAI capabilities.</li>
   <li>🛠️ Experienced with <strong>Node.js</strong>, <strong>MongoDB</strong>, and frontend integration using <strong>React.js</strong>.</li>
   <li>👨‍💼 Working as a <strong>Junior Full Stack Developer at <a href="https://www.linkedin.com/company/wysa-ai" target="_blank">Wysa</a></strong>, contributing to GenAI-powered mental health chatbot systems.</li>
+  <li>Work <a href="https://github.com/jai-touchkin" target="_blank"><strong>GITHUB</strong></a></li>
   <li>📫 Reach me at: <strong>kushwahajai74@gmail.com</strong></li>
   <li>📄 View my resume: <a href="https://drive.google.com/file/d/1A-mz1hhnAqYWd76g_3gF95MTpy3Wh7IC/view" target="_blank"><strong>RESUME</strong></a></li>
   <li>⚡ Fun fact: <em>Obsessed with my desk, laptop and a cup of tea.</em></li>
