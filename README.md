@@ -6,7 +6,7 @@
 </p>
 
 <ul>
-  <li>💻 Full-stack developer with experience in building scalable backend architecture and integrating GenAI capabilities.</li>
+  <li>💻 Full-stack developer with experience in building scalable backend systems and integrating GenAI capabilities.</li>
   <li>🛠️ Experienced with <strong>Node.js</strong>, <strong>MongoDB</strong>, and frontend integration using <strong>React.js</strong>.</li>
   <li>👨‍💼 Working as a <strong>Junior Full Stack Developer at <a href="https://www.linkedin.com/company/wysa-ai" target="_blank">Wysa</a></strong>, contributing to GenAI-powered mental health chatbot systems.</li>
   <li>Work <a href="https://github.com/jai-touchkin" target="_blank"><strong>GITHUB</strong></a></li>
